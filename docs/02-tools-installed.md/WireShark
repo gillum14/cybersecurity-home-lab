@@ -1,0 +1,26 @@
+Wireshark Installation
+
+Date
+July 5, 2026
+
+Objective
+Install Wireshark to begin analyzing network traffic and learning packet analysis.
+
+Why Wireshark?
+Wireshark is an industry-standard packet analyzer used by network engineers and cybersecurity professionals to inspect network traffic, troubleshoot connectivity issues, and investigate suspicious activity.
+
+Installation
+Operating System:
+macOS
+Version:
+Apple Silicon M2 MacBook Air
+
+Installation Method:
+Downloaded from the official Wireshark website.
+
+Verification
+Successfully launched Wireshark.
+Verified available network interfaces.
+
+Reflection
+Today I learned how Wireshark captures packets directly from network interfaces. I plan to begin capturing DNS and HTTP traffic as I continue learning networking fundamentals.
