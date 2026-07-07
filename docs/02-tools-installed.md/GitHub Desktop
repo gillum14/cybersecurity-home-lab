@@ -1,0 +1,32 @@
+GitHub Desktop Installation
+Date
+July 7, 2026
+
+Objective
+Install GitHub Desktop to manage Git repositories locally, organize cybersecurity documentation, and synchronize projects with GitHub.
+
+Why GitHub Desktop?
+GitHub Desktop provides a user-friendly interface for Git version control, making it easier to create repositories, organize files and folders, track changes, commit updates, and push projects to GitHub without relying on command-line Git. 
+It will serve as the primary tool for maintaining my cybersecurity portfolio and documenting my learning journey.
+
+Installation
+Operating System:
+macOS
+
+Version:
+Apple Silicon M2 MacBook Air
+
+Installation Method:
+Downloaded and installed GitHub Desktop from the official GitHub website.
+
+Verification:
+Successfully launched GitHub Desktop.
+Signed in to my GitHub account.
+Cloned my existing repository to my local machine.
+Reorganized repository folders locally.
+Committed changes and successfully pushed updates to GitHub.
+
+Reflection:
+Today I learned how GitHub Desktop simplifies repository management by allowing files and folders to be organized locally while automatically tracking changes through Git. 
+This workflow is significantly more efficient than managing repositories through the GitHub website alone.
+This will be my primary method for maintaining and expanding my cybersecurity portfolio as I complete labs, learning paths, and home lab projects.
