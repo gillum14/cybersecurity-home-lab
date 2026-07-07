@@ -31,6 +31,7 @@ My goal is to develop practical skills that complement my coursework and certifi
 ## Progress
 
 - ✅ Installed Wireshark
+- ✅ Installed GitHub Desktop
 - ⏳ Installing Git
 - ⏳ Installing VS Code
 - ⏳ Linux VM
