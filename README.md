@@ -2,35 +2,67 @@
 
 ## About
 
-This repository documents my cybersecurity home lab as I transition into the cybersecurity field.
+This repository documents my hands-on cybersecurity home lab as I transition from military and emergency services into cybersecurity.
 
-My goal is to develop practical skills that complement my coursework and certifications through hands-on projects.
+My goal is to build practical technical skills that complement my certifications through real-world projects, lab environments, and continuous documentation.
+
+---
 
 ## Current Learning
 
-- Google Cybersecurity Certificate
 - CompTIA Security+
 - CompTIA Network+
-- TryHackMe
+- TryHackMe SOC Level 1
 - Python
 - Linux
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+## Certifications
+
+- ✅ Google Cybersecurity Professional Certificate
+
+---
 
 ## Home Lab Goals
 
 - Learn networking fundamentals
-- Build Active Directory
 - Practice Linux administration
 - Analyze network traffic with Wireshark
+- Build Active Directory environments
 - Learn Windows Event Logs
 - Build cloud security labs
-- Document every project
+- Practice version control using Git & GitHub
+- Document every project professionally
+
+---
 
 ## Progress
 
+### Development Environment
+
 - ✅ Installed Wireshark
 - ✅ Installed GitHub Desktop
-- ⏳ Installing Git
-- ⏳ Installing VS Code
-- ⏳ Linux VM
-- ⏳ Active Directory
-- ⏳ Splunk
+- ✅ Installed Git
+- ✅ Installed Visual Studio Code
+- ✅ Connected VS Code with GitHub
+- ✅ Learned Git branching workflow
+- ✅ Created and merged Pull Requests
+
+### Current Projects
+
+- Wireshark
+- Git & GitHub
+- VS Code
+- TryHackMe Documentation
+
+### Coming Soon
+
+- Linux Virtual Machine
+- Active Directory Lab
+- Splunk
+- Microsoft Sentinel
+- Windows Event Logging
+- Azure Labs
